@@ -1,0 +1,4 @@
+C:\Users\alexa\source\repos\ConsoleApplication3 x64\x64\Debug\ConsoleApplication3 x64.exe
+C:\Users\alexa\source\repos\ConsoleApplication3 x64\x64\Debug\ConsoleApplication3 x64.pdb
+C:\Users\alexa\OneDrive\Desktop\ConsoleApplication3 x64\x64\Debug\ConsoleApplication3 x64.exe
+C:\Users\alexa\OneDrive\Desktop\ConsoleApplication3 x64\x64\Debug\ConsoleApplication3 x64.pdb
